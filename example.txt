@@ -1,4 +1,4 @@
-Hello this is an example of using git with github!
+Hello this is an example of github :)
 
 This is an example of making a change on github and doing a pull using git!
 
